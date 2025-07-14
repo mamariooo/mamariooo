@@ -1,5 +1,6 @@
-
 <h1 align="center">
+  Mario Wageh
+  <br>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYxbjRvazNqbGM4NDVvcmpiczZzODYweWpqc3RraG54ZDBkYmVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Qcx4jScEeYGe9rz3o/giphy.gif" width="80%">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h1>
