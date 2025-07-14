@@ -1,9 +1,39 @@
-<h1 align="center">
-  Mario Wageh
-  <br>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYxbjRvazNqbGM4NDVvcmpiczZzODYweWpqc3RraG54ZDBkYmVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Qcx4jScEeYGe9rz3o/giphy.gif" width="80%">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-</h1>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0f172a; 
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      color: white;
+    }
+
+    h1 {
+      font-size: 4em;
+      background: linear-gradient(to right, #00ffff, #38bdf8, #6366f1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 2px 2px 10px rgba(0, 255, 255, 0.2);
+      animation: float 3s ease-in-out infinite;
+      transition: transform 0.3s ease;
+      cursor: default;
+    }
+
+    h1:hover {
+      transform: scale(1.05);
+    }
+
+    @keyframes float {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-10px);
+      }
+    }
 
 <p align="center">
   <a href="https://git.io/typing-svg">
