@@ -1,40 +1,4 @@
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background-color: #0f172a; 
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      color: white;
-    }
-
-    h1 {
-      font-size: 4em;
-      background: linear-gradient(to right, #00ffff, #38bdf8, #6366f1);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      text-shadow: 2px 2px 10px rgba(0, 255, 255, 0.2);
-      animation: float 3s ease-in-out infinite;
-      transition: transform 0.3s ease;
-      cursor: default;
-    }
-
-    h1:hover {
-      transform: scale(1.05);
-    }
-
-    @keyframes float {
-      0%, 100% {
-        transform: translateY(0);
-      }
-      50% {
-        transform: translateY(-10px);
-      }
-    }
-
+<h1 style=color="red"> HI I am Mario Wageh </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello..+I'm+Mario+Wageh;Technology+&+Information+Student;NTI+%2F+CCNA+Certified;C%23%2C+Networks%2C+Security+%26+Desktop+Developer;Always+learning+new+tech" alt="Typing SVG" />
