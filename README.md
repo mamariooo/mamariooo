@@ -1,4 +1,4 @@
-<h1 style=color="red"> HI I am Mario Wageh </h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello..+I'm+Mario+Wageh;Technology+&+Information+Student;NTI+%2F+CCNA+Certified;C%23%2C+Networks%2C+Security+%26+Desktop+Developer;Always+learning+new+tech" alt="Typing SVG" />
